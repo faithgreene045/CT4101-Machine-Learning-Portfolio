@@ -70,7 +70,7 @@ The exact resolved versions of all python packages installed in the environment 
 1. Download the dataset from the link above and save diabetic_data.csv in data/raw
 2. Open JupyterLab
 3. Navigate to the notebooks folder
-4. Execute the cells sequentially, from top to bottom, in the following notebooks:
+4. Execute the cells sequentially, from top to bottom, in the following notebooks, located in the notebooks folder:
    * 1.Project_Setup.ipynb
    * 2.Data_Loading.ipynb
    * 3.Audit.ipynb
